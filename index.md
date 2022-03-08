@@ -6,4 +6,4 @@ Check out my meme
 ![](AG_meme.png)
 
 Facts about my meme 
-*Classic meme format
+* Classic meme format
