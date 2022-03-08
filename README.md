@@ -6,7 +6,7 @@
 Have a look at my website [epic website](https://andreag186.github.io/stats220/)
 
 Fun facts about me:
-1. I like monky (read about monky here [monky info](https://knowyourmeme.com/memes/ok-so-basically-im-monky)
+1. I like monky (read about monky here [monky info](https://knowyourmeme.com/memes/ok-so-basically-im-monky))
 2. I like coding 
 3. I like meme
 
