@@ -10,4 +10,4 @@ Fun facts about me:
 2. I like coding 
 3. I like meme
 
-![monky](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Ffortnob%2Fuhohstinky&psig=AOvVaw1B3v2ZuPRIkRUvIz4HuP6O&ust=1646810840755000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOihysv-tfYCFQAAAAAdAAAAABAN)
+![monky](https://i.kym-cdn.com/entries/icons/mobile/000/020/633/le_monke.jpg)
