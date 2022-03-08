@@ -3,4 +3,4 @@
 
 Check out my meme
 ## Super funny meme below:
-![](R, Ass1 stats220, AG_meme)
+![](AG_meme.png)
