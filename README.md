@@ -1,5 +1,6 @@
 # stats220
 
 ## Welcome to my Stats220 Assignment 1
-### *brought to you by Andrea Grecu*
+### *Brought to you by Andrea Grecu*
 
+Have a look at my website [epic website](andreag.github.io/monky)
