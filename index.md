@@ -11,7 +11,7 @@ Facts about my meme
 * Used R code you can find below!
 
 ## Here is the code I used to create my super funny meme
-'''{r}
+```r
 library(magick)
 sad_computer <- image_read("https://cdn4.vectorstock.com/i/1000x1000/23/28/pc-sad-vector-1312328.jpg")%>%
   image_scale(500)
@@ -35,4 +35,4 @@ meme_ag <-c(first_row, second_row)%>%
   image_append(stack = TRUE)
 
 meme_ag
-'''
+```
