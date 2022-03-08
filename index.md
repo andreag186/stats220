@@ -8,7 +8,7 @@ Check out my meme
 Facts about my meme 
 * Classic meme format
 * Inspired by monky meme trend
-* Used R code you can find below!
+* Uses R code you can find below!
 
 ## Here is the R code I used to create my super funny meme
 ```r
